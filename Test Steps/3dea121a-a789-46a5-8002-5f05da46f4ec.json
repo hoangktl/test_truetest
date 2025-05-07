@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on button clickToSayHello",
+        "step 3: Click on button clickToSayHello",
+        "step 4: Click on html object",
+        "step 5: Click on html object",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

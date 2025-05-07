@@ -1,0 +1,8 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Verify Hello Button Functionality and Page Navigation,"Navigate to the home page, click the hello button multiple times, interact with HTML objects, and verify that the home page is displayed correctly.","Step 1: Navigate to /
+Step 2: Click on button clickToSayHello
+Step 3: Click on button clickToSayHello
+Step 4: Click on html object
+Step 5: Click on html object
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
